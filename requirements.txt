@@ -1,6 +1,4 @@
-mediapipe>=0.10.0
-mediapipe-model-maker>=0.10.0
+mediapipe
 opencv-python
 numpy
-tensorflow>=2.13.0
 pillow
